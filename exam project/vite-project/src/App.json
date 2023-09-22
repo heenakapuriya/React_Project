@@ -1,0 +1,42 @@
+[
+{
+    "id":1,
+    "image":"https://images.unsplash.com/photo-1606567595334-d39972c85dbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmlyZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "title":"Bird"
+},
+{
+    "id":2,
+    "image":"https://images.pexels.com/photos/2662434/pexels-photo-2662434.jpeg?cs=srgb&dl=pexels-jack-bulmer-2662434.jpg&fm=jpg",
+    "title":"Bird"
+},
+{
+    "id":3,
+    "image":"https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?cs=srgb&dl=pexels-joyston-judah-933054.jpg&fm=jpg",
+    "title":"Mountain"
+},
+{
+    "id":4,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+    "title":"Mountain"
+},
+{
+    "id":5,
+    "image":"https://media.istockphoto.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.jpg?b=1&s=612x612&w=0&k=20&c=BON5S0uDJeCe66N9klUEw5xKSGVnFhcL8stPLczQd_8=",
+    "title":"Food"
+},
+{
+    "id":6,
+    "image":"https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?cs=srgb&dl=pexels-chan-walrus-958545.jpg&fm=jpg",
+    "title":"Food"
+},
+{
+    "id":7,
+    "image":"https://w0.peakpx.com/wallpaper/791/747/HD-wallpaper-tropical-beach-beach-tropical-thumbnail.jpg",
+    "title":"Beach"
+},
+{
+    "id":8,
+    "image":"https://cdn.pixabay.com/photo/2016/04/18/22/05/seashells-1337565_640.jpg",
+    "title":"Beach"
+}
+]

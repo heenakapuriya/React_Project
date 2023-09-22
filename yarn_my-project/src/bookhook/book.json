@@ -1,0 +1,174 @@
+[
+    {
+        "id":0,
+        "image":"https://m.media-amazon.com/images/I/91tnLyHWu-L._AC_UY218_.jpg",
+        "title":" Animals Hardcover",
+        "auther":"Agatha Christie",
+        "type":" kids-book",
+        "price":"340"
+
+    },
+    
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/I/61ot0Jxj-jL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title":"Tresure iseland",
+        "auther":"Leo Tolstoy",
+        "type":"kids-book",
+        "price":"170"
+    },
+    
+    {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/I/81evNO+JD-L._AC_UY218_.jpg",
+        "title":"The Kid Who Came From Space",
+        "auther":"Leo Tolstoy",
+        "type":"kids-book",
+        "price":"359"
+    },
+    
+    {
+        "id":3,
+        "image":"https://m.media-amazon.com/images/I/51oVTRsjcqL._AC_UY218_.jpg",
+        "title":"silent patient",
+        "auther":"Agatha Christie",
+        "type":"Action",
+        "price":"180"
+    },
+    
+    {
+        "id":4,
+        "image":"https://m.media-amazon.com/images/I/61Q7MHNU9qL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "title":"sherlock homless",
+        "auther":"Leo Tolstoy",
+        "type":"Action",
+        "price":"520"
+    },
+    
+    {
+        "id":5,
+        "image":"https://m.media-amazon.com/images/I/81ZI8RyyynL._AC_UY218_.jpg",
+        "title":"Hiden hindu",
+        "auther":"Georges Simenon",
+        "type":"Action",
+        "price":"450"
+    },
+    
+    {
+        "id":6,
+        "image":"https://m.media-amazon.com/images/I/71g2ednj0JL._AC_UY218_.jpg",
+        "title":"phycology of money",
+        "auther":"Agatha Christie",
+        "type":"bussiness and economy",
+        "price":"850"
+    },
+    
+    {
+        "id":7,
+        "image":"https://m.media-amazon.com/images/I/71ZXrHdFHEL._AC_UY218_.jpg",
+        "title":"ichigo ichi",
+        "auther":"Georges Simenon",
+        "type":"Action",
+        "price":"157"
+    },
+    
+    {
+        "id":8,
+        "image":"https://m.media-amazon.com/images/I/819zMp-76RL._AC_UY218_.jpg",
+        "title":"first flood",
+        "auther":"Agatha Christie",
+        "type":"Action",
+        "price":"199"
+    },
+    
+    {
+        "id":9,
+        "image":"https://m.media-amazon.com/images/I/81BE7eeKzAL._AC_UY218_.jpg",
+        "title":"richdad poordad",
+        "auther":"Georges Simenon",
+        "type":"bussiness and economy",
+        "price":"186"
+    },
+    
+    {
+        "id":10,
+        "image":"https://m.media-amazon.com/images/I/61MK2o9YAqL._AC_UY218_.jpg",
+        "title":"the world 2050",
+        "auther":"Agatha Christie",
+        "type":"Action",
+        "price":"246"
+    },
+    
+    {
+        "id":11,
+        "image":"https://m.media-amazon.com/images/I/71hEfC5cfeL._AC_UY218_.jpg",
+        "title":"great of panchtantra stories",
+        "auther":"Agatha Christie",
+        "type":"kids-book",
+        "price":"150"
+    },
+    
+    {
+        "id":12,
+        "image":"https://m.media-amazon.com/images/I/81+q09xDgOL._AC_UY218_.jpg",
+        "title":"kola who cloud",
+        "auther":"Georges Simenon",
+        "type":"Action",
+        "price":"155"
+    },
+    
+    {
+        "id":13,
+        "image":"https://m.media-amazon.com/images/I/81yQL90-RYS._AC_UY218_.jpg",
+        "title":"the wealth of nation",
+        "auther":"Agatha Christie",
+        "type":"bussiness and economy",
+        "price":"350"
+    },
+    
+    {
+        "id":14,
+        "image":"https://m.media-amazon.com/images/I/71ZY-V5TTbL._AC_UY218_.jpg",
+        "title":"space-boy",
+        "auther":"Georges Simenon",
+        "type":"kids-boy",
+        "price":"650"
+    },
+    
+    {
+        "id":15,
+        "image":"https://m.media-amazon.com/images/I/51DlDekQ5-L._AC_UY218_.jpg",
+        "title":"power of subscriptionof mind ",
+        "auther":"Barbara Cartland",
+        "type":"bussiness and economy",
+        "price":"170"
+    },
+    
+    {
+        "id":16,
+        "image":"https://m.media-amazon.com/images/I/81yREmX2wtL._AC_UY218_.jpg",
+        "title":"1000 year old boy",
+        "auther":"Agatha Christie",
+        "type":"kids-book",
+        "price":"168"
+    },
+    
+    {
+        "id":17,
+        "image":"https://m.media-amazon.com/images/I/81NYuWzsJcS._AC_UY218_.jpg",
+        "title":"the reachest man babylon",
+        "auther":"Barbara Cartland",
+        "type":"bussiness and economy",
+        "price":"250"
+    },
+    
+    {
+        "id":18,
+        "image":"https://m.media-amazon.com/images/I/81lmGXLmjuL._AC_UY218_.jpg",
+        "title":"BRAIN GAMES FOR CLEVER KIDS",
+        "auther":"Agatha Christie",
+        "type":"kids-book",
+        "price":"180"
+    }
+
+]
